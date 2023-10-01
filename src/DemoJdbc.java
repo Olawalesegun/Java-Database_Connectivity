@@ -28,7 +28,7 @@ public class DemoJdbc {
         con.close();
         System.out.println("Connection Closed");
 
-
+        The JDBC as popularly referred to Java Database connectivity acts as an interface or API  for all java files pr programs to connect with different databases. In this repository, you will find my learnings and hands on practice to solidy this concept and build a great understanding for myself.
 
     }
 }
