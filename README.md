@@ -15,3 +15,6 @@
 # What are the core components and features of JDBC?
 `1. Driver Manager`
 `2. Database Connection`
+`3. Sql Statements`
+`4. Result Sets`
+`5. Exception handling`
